@@ -5,7 +5,7 @@
 
 Read the open-access paper [here](https://pubs.rsc.org/en/Content/ArticleLanding/2024/TA/D3TA08096J).
 
-###Notes on methodology:
+### Notes on methodology:
 
 * All total energy calculations were performed using plane-wave Density Functional Theory (DFT) as implemented in the Vienna Ab Initio Simulation Package (VASP, v.6.2.1).
 * The Perdew-Burke-Ernzerhof (PBE) exchange-correlation functional 27 and Projector Augmented Wave (PAW) pseudopotentials were used to represent each element.
